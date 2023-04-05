@@ -1,5 +1,6 @@
 ### Hi there , I'm [Orange🍊](https://github.com/orangeji11) 👋  
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=550&pause=1000&color=000000&width=435&repeat=false&lines=Welcome+to+my+github+homepage!)](https://git.io/typing-svg)
 
 - 🔭  I’m currently working on software development work 
 - 🌱  I’m currently learning golang,rust,k8s ...
